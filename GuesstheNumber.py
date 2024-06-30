@@ -1,5 +1,5 @@
 #Number Guessing Game Objectives:
-from art import logo
+from GNart import logo
 import random
 
 num = random.randint(1,100)
